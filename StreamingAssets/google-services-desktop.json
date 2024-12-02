@@ -1,0 +1,26 @@
+{
+    "project_info": {
+        "project_number": "581350947129",
+        "firebase_url": "https://clicker-2b69b-default-rtdb.firebaseio.com",
+        "project_id": "clicker-2b69b",
+        "storage_bucket": "clicker-2b69b.firebasestorage.app"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:581350947129:android:7498dc43a9c532020d50e8",
+            "android_client_info": {
+                "package_name": "com.SoManyGames.Copibara"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyCO4fdLvfav0d8qtrd_rn8Z77OhWZg5nqM"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
